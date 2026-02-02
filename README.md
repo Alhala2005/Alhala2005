@@ -3,7 +3,8 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
 </h2>
 
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="220">
+
+<img width="155" height="515" alt="kkk-removebg-preview" src="https://github.com/user-attachments/assets/47805b76-b8ca-4654-bb60-53127d106025" />
 
 <p>
 <em>
