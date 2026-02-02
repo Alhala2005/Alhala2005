@@ -21,7 +21,7 @@ Diploma in Web Programming & Development 🎓 <br>
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=alhala&style=flat&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=Alhala2005&style=flat&color=orange)
 
 </div>
 
@@ -55,22 +55,12 @@ Diploma in Web Programming & Development 🎓 <br>
 
 ---
 
-## 📌 Featured Projects
-> *(ضيفي مشاريعك هنا لاحقاً)*
+## 📌 Featured Projects*
 
 - 🌐 Responsive Website using HTML, CSS & JS  
 - 🗄 Dynamic Web App with PHP & MySQL  
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alhala&show_icons=true&theme=nord" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhala&layout=compact&theme=nord" width="40%" />
-
-</div>
 
 ---
 
