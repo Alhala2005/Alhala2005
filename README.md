@@ -22,8 +22,6 @@ Diploma in Web Programming & Development 🎓 <br>
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alhala2005&style=flat&color=orange)
-
 </div>
 
 ---
