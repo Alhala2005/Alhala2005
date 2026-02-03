@@ -54,13 +54,19 @@ Diploma in Web Programming & Development 🎓 <br>
 
 ---
 
-## 📌 Featured Projects*
+## 📌 Projects
+## BS Design
+As a motivated tech graduate, I launched this project as a "Personal Initiative" to bridge the gap between 
+-academic knowledge and realworld software solutions.
+### 💡 Initiative
+- Demonstrating the ability to build high-quality User Interfaces (UI).
+-  Supporting local startups by providing a modern technical prototype. 
+-  Working on functional logic and page routing (Still under development )
 
-- 🌐 Responsive Website using HTML, CSS & JS  
-- 🗄 Dynamic Web App with PHP & MySQL  
-
-
+### 🛠️ Technical Skills
+- Web Structure: Building clean and organized HTML5 code.
+- Visual Design: Using CSS3 to create consistent brand identities.
+- Interactivity: Adding JavaScript touches to enhance page dynamics.
+- PHP: Handling data and Back-end operations.
 
 ---
-
-✨ *“Clean code, clear design, meaningful impact.”*
