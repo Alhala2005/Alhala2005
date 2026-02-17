@@ -9,9 +9,8 @@
 <p>
 <em>
 Web Developer 💻 <br>
-Diploma in Web Programming & Development 🎓 <br>
  Saudi Arabia 🌍<br>
- Passionate about building clean & responsive web experiences 🚀<br>
+ 
 </em>
 </p>
 
@@ -45,7 +44,7 @@ Diploma in Web Programming & Development 🎓 <br>
 
 ### Frameworks & Tools
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -53,25 +52,34 @@ Diploma in Web Programming & Development 🎓 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-07405E?style=flat&logo=mysql&logoColor=white)
 
 ---
-
-
-🛠️ Tech Stack:
-• Front-End: Interfaces built with HTML5, CSS3, and JavaScript.
-• Back-End: System logic and operational management are powered by PHP.
-• Database: Data storage and management using MySQL
 ## 📌 Projects
 
 ## BS Design
-BS Design is a comprehensive project providing a unique digital experience for event themes and printables. Launched as a personal 
-initiative to merge art with technology, it focuses on delivering an engaging User Interface (UI) and a seamless User Experience (UX).
+BS Design is a comprehensive project providing a unique digital experience for event themes and printables.
+Launched as a personal initiative to merge art with technology, 
+it focuses on delivering an engaging User Interface (UI) and a seamless User Experience (UX).
 ### 💡 Key Features:
 • Dynamic Categories: A diverse display of design categories (Newborns, Graduation, National events, etc.).
+
 • Smart Order Flow: Seamless product selection linked directly to WhatsApp for streamlined communication and payment.
-• Admin Dashboard: A management panel (under development) to manage products, statistics, and orders.
+
+• Admin Dashboard: A management panel to  products, statistics, and orders.
+
 • User Order Tracking: A dedicated customer page to review previous order history and details.
 
-### 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
 • Front-End: Interfaces built with HTML5, CSS3, and JavaScript.
+
 • Back-End: System logic and operational management are powered by PHP.
+
 • Database: Data storage and management using MySQL
+
+⚙️ Project Status:
+
+Project under development. 
+
+The full back-end functionality (Admin Dashboard, Order System, and Database) is operational in a local environment 
+
+and ready for deployment on a PHP-supported server.
+
 ---
