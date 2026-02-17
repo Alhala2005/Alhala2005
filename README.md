@@ -54,19 +54,24 @@ Diploma in Web Programming & Development 🎓 <br>
 
 ---
 
+
+🛠️ Tech Stack:
+• Front-End: Interfaces built with HTML5, CSS3, and JavaScript.
+• Back-End: System logic and operational management are powered by PHP.
+• Database: Data storage and management using MySQL
 ## 📌 Projects
+
 ## BS Design
-As a motivated tech graduate, I launched this project as a "Personal Initiative" to bridge the gap between 
--academic knowledge and realworld software solutions.
-### 💡 Initiative
-- Demonstrating the ability to build high-quality User Interfaces (UI).
--  Supporting local startups by providing a modern technical prototype. 
--  Working on functional logic and page routing (Still under development )
+BS Design is a comprehensive project providing a unique digital experience for event themes and printables. Launched as a personal 
+initiative to merge art with technology, it focuses on delivering an engaging User Interface (UI) and a seamless User Experience (UX).
+### 💡 Key Features:
+• Dynamic Categories: A diverse display of design categories (Newborns, Graduation, National events, etc.).
+• Smart Order Flow: Seamless product selection linked directly to WhatsApp for streamlined communication and payment.
+• Admin Dashboard: A management panel (under development) to manage products, statistics, and orders.
+• User Order Tracking: A dedicated customer page to review previous order history and details.
 
-### 🛠️ Technical Skills
-- Web Structure: Building clean and organized HTML5 code.
-- Visual Design: Using CSS3 to create consistent brand identities.
-- Interactivity: Adding JavaScript touches to enhance page dynamics.
-- PHP: Handling data and Back-end operations.
-
+### 🛠️ Tech Stack:
+• Front-End: Interfaces built with HTML5, CSS3, and JavaScript.
+• Back-End: System logic and operational management are powered by PHP.
+• Database: Data storage and management using MySQL
 ---
