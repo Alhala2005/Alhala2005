@@ -1,6 +1,5 @@
 <h2>
   Hi, I'm Alhala 
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45">
 </h2>
 
 
