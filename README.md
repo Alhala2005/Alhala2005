@@ -57,7 +57,7 @@ Web Developer 💻 <br>
 BS Design is a comprehensive project providing a unique digital experience for event themes and printables.
 Launched as a personal initiative to merge art with technology, 
 it focuses on delivering an engaging User Interface (UI) and a seamless User Experience (UX).
-### 💡 Key Features:
+### 💡 Key Features :
 • Dynamic Categories: A diverse display of design categories (Newborns, Graduation, National events, etc.).
 
 • Smart Order Flow: Seamless product selection linked directly to WhatsApp for streamlined communication and payment.
@@ -66,14 +66,14 @@ it focuses on delivering an engaging User Interface (UI) and a seamless User Exp
 
 • User Order Tracking: A dedicated customer page to review previous order history and details.
 
-## 🛠️ Tech Stack:
+### 🛠️ Tech Stack :
 • Front-End: Interfaces built with HTML5, CSS3, and JavaScript.
 
 • Back-End: System logic and operational management are powered by PHP.
 
 • Database: Data storage and management using MySQL
 
-⚙️ Project Status:
+⚙️ Project Status :
 
 Project under development. 
 
