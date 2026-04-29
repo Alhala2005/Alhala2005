@@ -73,12 +73,6 @@ it focuses on delivering an engaging User Interface (UI) and a seamless User Exp
 
 • Database: Data storage and management using MySQL
 
-⚙️ Project Status :
 
-Project under development. 
-
-The full back-end functionality (Admin Dashboard, Order System, and Database) is operational in a local environment 
-
-and ready for deployment on a PHP-supported server.
 
 ---
